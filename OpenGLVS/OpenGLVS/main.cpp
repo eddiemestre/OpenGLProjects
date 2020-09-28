@@ -1,3 +1,8 @@
+// Template created by Sonar Systems
+//
+// https://github.com/SonarSystems/Modern-OpenGL-Tutorials/tree/master/%5BSETUP%5D
+//
+
 #include <iostream>
 
 // GLEW
