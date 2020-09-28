@@ -1,6 +1,0 @@
-﻿  Test.cpp
-c:\users\egmes\onedrive - personal\onedrive\projects\code\opengl\test\test\test.cpp(37): warning C4305: '+=': truncation from 'double' to 'float'
-c:\users\egmes\onedrive - personal\onedrive\projects\code\opengl\test\test\test.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\egmes\onedrive - personal\onedrive\projects\code\opengl\test\test\test.cpp(42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-c:\users\egmes\onedrive - personal\onedrive\projects\code\opengl\test\test\test.cpp(44): warning C4244: 'argument': conversion from 'float' to 'GLint', possible loss of data
-  Test.vcxproj -> C:\Users\egmes\OneDrive - Personal\OneDrive\Projects\Code\OpenGL\Test\Debug\Test.exe
